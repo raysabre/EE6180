@@ -2,7 +2,9 @@ Chow-Liu.ipnyb is Problem1
 
 The notebook uses graphviz for rendering images.
 
-You just need to install graphviz using pip(``` pip install graphviz ```) and run the notebook
+You just need to install graphviz using pip
+
+``` pip install graphviz ```
 
 ## References:
 
